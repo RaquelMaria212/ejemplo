@@ -1,0 +1,20 @@
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\bin\Debug\2018.02.02_Clase_Nutrición.exe.config
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\bin\Debug\2018.02.02_Clase_Nutrición.exe
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\bin\Debug\2018.02.02_Clase_Nutrición.pdb
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.csprojResolveAssemblyReference.cache
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\_2018._02._02_Clase_Nutrición.Paciente.resources
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\_2018._02._02_Clase_Nutrición.Properties.Resources.resources
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.csproj.GenerateResource.Cache
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.csproj.CoreCompileInputs.cache
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.exe
+D:\Raquel\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.pdb
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\bin\Debug\2018.02.02_Clase_Nutrición.exe.config
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\bin\Debug\2018.02.02_Clase_Nutrición.exe
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\bin\Debug\2018.02.02_Clase_Nutrición.pdb
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.csprojResolveAssemblyReference.cache
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\_2018._02._02_Clase_Nutrición.Paciente.resources
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\_2018._02._02_Clase_Nutrición.Properties.Resources.resources
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.csproj.GenerateResource.Cache
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.csproj.CoreCompileInputs.cache
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.exe
+F:\raquel\Sotware II\2018.02.02_Clase_Nutrición\2018.02.02_Clase_Nutrición\obj\Debug\2018.02.02_Clase_Nutrición.pdb
